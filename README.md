@@ -1,4 +1,4 @@
-#Outomation RAG Pipeline
+# Outomation RAG Pipeline
 
 This repo contains milestone relevant projects I completed during externship at Outamation AI for RAG based Workflow Automation.
 
